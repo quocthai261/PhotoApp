@@ -1,0 +1,25 @@
+[
+  {"img": "https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg",
+    "title": "Strawberry",
+    "description": "Fruit"},
+
+  { "img": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/whole-and-slices-watermelon.jpg",
+    "title": "Watermelon",
+    "description": "Fruit"   },
+
+  { "img": "https://www.collinsdictionary.com/images/full/apple_158989157.jpg",
+    "title": "Apple",
+    "description": "Fruit"   },
+
+  { "img": "http://vikafoods.com/files/product/5944/13-05-2022/1578103480singleproduct11thanhlongtrang_8RyNIMAm.jpg",
+    "title": "Dragon Fruit",
+    "description": "Fruit"   },
+
+  { "img": "https://static.libertyprim.com/files/familles/melon-large.jpg?1574629891",
+    "title": "Melon",
+    "description": "Fruit"   },
+
+  { "img": "http://cdn.shopify.com/s/files/1/0451/1101/7626/products/saladcucumberseeds.jpg?v=1603435556",
+    "title": "Cucumber",
+    "description": "Fruit"   }
+]
